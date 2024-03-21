@@ -11,6 +11,7 @@
 
 ### 確認國家和地區
 - 選擇United States
+![](图片链接)docs/source/images/001.jpg
 
 ### 選擇鍵盤風格
 - 選擇US
